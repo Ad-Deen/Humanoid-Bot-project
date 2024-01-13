@@ -12,21 +12,22 @@ In the initial phase of the project, the focus has been on the mechanical design
 
 ### CAD Files
 
-- [Leg Design CAD File 1](link_to_cad_file_1)
-- [Leg Design CAD File 2](link_to_cad_file_2)
+- [GrabCad Link](https://grabcad.com/library/humanoid-mechanical-leg-1)
+
+I would really appreciate your Likes, Comment or Share of the model if it's worth your time.
 
 Feel free to explore these CAD files to get a closer look at the mechanical intricacies of the leg design.
 
 ## Progress Update
 
-The project is making steady progress, with the completion of the mechanical design phase. The next steps will involve electrical wiring, simulations, and the implementation of cognitive capabilities.
+The project is making steady progress, with the completion of the mechanical design phase. The next steps will involve electrical power distribution in actuators, simulations, and the implementation of cognitive capabilities.
 
 ## Repository Structure
 
 The project repository is organized to facilitate collaboration and tracking of progress. Here's an overview of the main directories:
 
 - `/mechanical_design`: Contains CAD files and documentation related to the mechanical design phase.
-- `/electrical_wiring`: Planned directory for electrical wiring schematics and documentation.
+- `/electrical_power_distribution`: Planned directory for electrical wiring schematics and documentation.
 - `/simulations`: Future home for simulation models and results.
 - `/cognitive_capabilities`: Planned directory for cognitive capabilities development.
 

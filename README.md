@@ -59,7 +59,8 @@ To get started with the project, follow these steps:
 
 1. Download the CAD file from grabCAD and organize the joints in a parant child relation tree.
 2. Keep the base be the waist region.
-3. Convert the .f3d to URDF from Fusion 360 using fusion2urdf plugin. You will find further details here.
+3. Convert the .f3d to URDF from Fusion 360 using fusion2urdf plugin. You will find further details [here](https://github.com/syuntoku14/fusion2urdf).
+.
 4. Use the URDF for simulations in Simulating Softwares Like Gazebo 11.
 
 ### Power Distribution Part

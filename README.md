@@ -5,6 +5,11 @@ Welcome to the Humanoid Robot Project! This project involves the design, develop
 ## Project Overview
 
 The Humanoid Robot Project aims to create a sophisticated humanoid robot with capabilities ranging from mechanical design to electrical wiring, simulations, and cognitive capabilities. This project is a comprehensive exploration of robotics, covering various engineering disciplines.
+Mechanical Leg/Initial joint Demo.gif
+
+<p align="center">
+  <img src="Mechanical Leg/Initial joint Demo.gif" alt="Mechanical Leg Demo" width="80%" />
+</p>
 
 ## Mechanical Design - Leg Part
 
@@ -21,6 +26,10 @@ Feel free to explore these CAD files to get a closer look at the mechanical intr
 ## Progress Update
 
 The project is making steady progress, with the completion of the mechanical design phase. The next steps will involve electrical power distribution in actuators, simulations, and the implementation of cognitive capabilities.
+
+<p align="center">
+  <img src="Mechanical Leg/Run Demo.gif" alt="Mechanical Leg Demo" width="80%" />
+</p>
 
 ## Repository Structure
 
@@ -46,7 +55,19 @@ Feel free to fork the repository, make your contributions, and submit pull reque
 
 To get started with the project, follow these steps:
 
-1. Clone the repository to your local machine:
+### Simulation Part:
 
-   ```bash
-   git clone https://github.com/your-username/humanoid-robot-project.git
+1. Download the CAD file from grabCAD and organize the joints in a parant child relation tree.
+2. Keep the base be the waist region.
+3. Convert the .f3d to URDF from Fusion 360 using fusion2urdf plugin. You will find further details here.
+4. Use the URDF for simulations in Simulating Softwares Like Gazebo 11.
+
+### Power Distribution Part
+
+1. You can Re-edit the model for more practical appearance. I didn't fixed the joint mechanisms in the model.
+2. Apply actuators and move the actuators from Electrical power lines with feedback loop of the joint motion.
+
+### Cognitive Capabilities
+
+This part will be worked after we completetly build the mechanical and electrical power distribution all practical actuators in the model.
+But you are welcome to do the work on perception stack early on. Let me know your progess and let's collaborate. 

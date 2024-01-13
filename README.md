@@ -61,11 +61,11 @@ To get started with the project, follow these steps:
 2. Keep the base be the waist region.
 3. Convert the .f3d to URDF from Fusion 360 using fusion2urdf plugin. You will find further details [here](https://github.com/syuntoku14/fusion2urdf).
 .
-4. Use the URDF for simulations in Simulating Softwares Like Gazebo 11.
+4. Use the URDF for simulations in Simulating Softwares Like [Gazebo 11](https://gazebosim.org/home).
 
 ### Power Distribution Part
 
-1. You can Re-edit the model for more practical appearance. I didn't fixed the joint mechanisms in the model.
+1. You can Re-edit the model for more practical appearance. I didn't fixed the [joint mechanisms in the model](https://www.tandfonline.com/doi/full/10.1080/01691864.2020.1813624).
 2. Apply actuators and move the actuators from Electrical power lines with feedback loop of the joint motion.
 
 ### Cognitive Capabilities
